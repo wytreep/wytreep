@@ -47,7 +47,7 @@ Busco una posición Junior o pasantía en Desarrollo Backend.
 - **Stack:** TypeScript, Node.js, NestJS, PostgreSQL
 
 ### [UNI-VIRTUAL — Plataforma académica (LMS)](https://github.com/wytreep/univirtual)
-> Mayo a agosto de 2025. Proyecto de Ingeniería de Software en la UNIAJC.
+> Marzo a abril de 2026. Proyecto de Ingeniería de Software en la UNIAJC.
 
 - LMS modular con arquitectura MVC en **PHP 8** y **React 18**, con 4 roles de usuario (Admin, Profesor, Estudiante, Directivo)
 - **API REST** con más de 21 endpoints y streaming de video con HTTP Range
@@ -69,5 +69,6 @@ Busco una posición Junior o pasantía en Desarrollo Backend.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-carabali-526a1a3b1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edwinacarabali@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-181717?style=flat&logo=vercel&logoColor=white)](https://portafolio-tau-bay.vercel.app)
+[![CV](https://img.shields.io/badge/Descargar_CV-0B6E6B?style=flat&logo=readme&logoColor=white)](https://portafolio-tau-bay.vercel.app/CV_Edwin_Carabali.pdf)
 
 Cali, Colombia · Disponible para pasantías y empleo técnico
